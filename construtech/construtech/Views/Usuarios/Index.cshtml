@@ -1,0 +1,65 @@
+﻿@model IEnumerable<construtech.Models.Usuario>
+
+@{
+    ViewData["Title"] = "Usuarios";
+}
+
+<div class="row my-3">
+    <div class="col-md-8"><h2>Usuarios</h2></div>
+    <div class="col-md-4">
+        <a class="btn btn-primary" asp-action="Create"> <span data-feather="plus"></span> Agregar usuario </a>
+    </div>
+</div>
+
+<table id="table" class="table table-striped table-sm">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Apellido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cedula)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Clave)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdEmplNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdRolNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cedula)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Clave)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdEmplNavigation.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdRolNavigation.Id)
+            </td>
+            <td>
+                    <a class="btn bg-secondary text-white" asp-action="Edit" asp-route-id="@item.Id">Editar <i class="fa-solid fa-pen-to-square"></i></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

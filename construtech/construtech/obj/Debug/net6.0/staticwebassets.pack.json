@@ -1,0 +1,961 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\construtech.bundle.scp.css",
+      "PackagePath": "staticwebassets\\construtech.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.eslintignore",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.eslintignore"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.gitignore"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.stylelintignore",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.stylelintignore"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.stylelintrc",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.stylelintrc"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\BsMultiSelect.code-workspace",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\BsMultiSelect.code-workspace"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\KB.md",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\KB.md"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\README.md",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\README.md"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\TODO.txt",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\TODO.txt"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.bundle.esm.config.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.bundle.esm.config.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.bundle.umd.config.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.bundle.umd.config.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.mjs.config.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.mjs.config.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.mjs.ecma5.config.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.mjs.ecma5.config.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\banner.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\banner.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\postcss.config.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\postcss.config.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\rollup.config.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\rollup.config.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\rollup_async.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\rollup_async.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\debugJs.html",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\debugJs.html"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\debugJsSimple.html",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\debugJsSimple.html"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\debugJsSimplePicks.html",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\debugJsSimplePicks.html"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.css",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.css.map",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.min.css",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.css",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.css.map",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.min.css",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.js.map",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.min.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.min.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.ecma5.mjs",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.ecma5.mjs"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.ecma5.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.ecma5.mjs.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.js.map",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.min.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.min.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.mjs",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.mjs"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.mjs.map",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.mjs.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\index.d.ts"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\npm-debug.log",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\npm-debug.log"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\package-lock.json"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\package.json",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\package.json"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\scss\\BsMultiSelect.bs4.scss",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\scss\\BsMultiSelect.bs4.scss"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\scss\\BsMultiSelect.scss",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\scss\\BsMultiSelect.scss"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\AddToJQueryPrototype.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\AddToJQueryPrototype.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\AfterInputAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\AfterInputAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\AppendAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\AppendAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.bs4.esm.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.bs4.esm.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.bs4.jquery.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.bs4.jquery.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.esm.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.esm.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.jquery.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.jquery.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.web.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.web.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect2.jquery.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect2.jquery.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect2.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect2.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelectDepricatedParameters.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelectDepricatedParameters.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelectElement.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelectElement.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoiceDomFactory.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoiceDomFactory.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoicesDomFactory.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoicesDomFactory.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoicesEnumerableAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoicesEnumerableAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoicesVisibilityAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoicesVisibilityAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CountableChoicesListInsertAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CountableChoicesListInsertAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CreateElementAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CreateElementAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CreateForJQuery.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CreateForJQuery.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CreateWrapAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CreateWrapAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\DomFactories.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\DomFactories.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\FilterDomFactory.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\FilterDomFactory.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\FilterManagerAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\FilterManagerAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\InitialDomFactory.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\InitialDomFactory.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\InputAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\InputAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\LayoutFactory.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\LayoutFactory.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\LoadAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\LoadAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ModuleFactory.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ModuleFactory.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\MultiSelectBuilder.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\MultiSelectBuilder.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\MultiSelectInlineLayoutAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\MultiSelectInlineLayoutAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\NavigateAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\NavigateAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\OnChangeAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\OnChangeAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\OptionsAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\OptionsAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\OptionsLoopAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\OptionsLoopAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PickDomFactory.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PickDomFactory.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PicksDomFactory.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PicksDomFactory.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PicksElementAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PicksElementAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PluginManager.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PluginManager.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PluginSet.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PluginSet.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ProduceChoiceAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ProduceChoiceAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ProducePickAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ProducePickAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ResetFilterListAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ResetFilterListAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ResetLayoutAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ResetLayoutAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ShowErrorAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ShowErrorAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\SpecialPicksEventsAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\SpecialPicksEventsAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\StaticDomFactory.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\StaticDomFactory.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\StaticManagerAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\StaticManagerAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolSet.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolSet.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolsDom.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolsDom.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolsJs.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolsJs.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolsStyling.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolsStyling.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\UpdateDataAspect.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\UpdateDataAspect.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\Wraps.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\Wraps.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\index.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\index.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs4CssPatchPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs4CssPatchPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs4Plugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs4Plugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs5CssPatchPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs5CssPatchPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs5Plugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs5Plugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearancePlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearancePlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\ChoicesDynamicStylingPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\ChoicesDynamicStylingPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CreatePopperPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CreatePopperPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CssPatchBs4Plugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CssPatchBs4Plugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CssPatchBs5Plugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CssPatchBs5Plugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CssPatchPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CssPatchPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CustomChoiceStylingsPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CustomChoiceStylingsPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CustomPickStylingsPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CustomPickStylingsPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\DisableComponentPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\DisableComponentPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\DisabledOptionPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\DisabledOptionPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FloatingLabelCssPatchBs5Plugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FloatingLabelCssPatchBs5Plugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FloatingLabelPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FloatingLabelPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FormResetPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FormResetPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FormRestoreOnBackwardPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FormRestoreOnBackwardPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\HiddenOptionAltPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\HiddenOptionAltPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\HiddenOptionPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\HiddenOptionPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\HighlightPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\HighlightPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\JQueryMethodsPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\JQueryMethodsPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\LabelForAttributePlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\LabelForAttributePlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\OptionsApiPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\OptionsApiPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PickButtonPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PickButtonPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PicksApiPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PicksApiPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PicksPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PicksPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PlaceholderCssPatchPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PlaceholderCssPatchPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PlaceholderPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PlaceholderPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\RtlPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\RtlPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\SelectElementPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\SelectElementPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\SelectedOptionPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\SelectedOptionPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\SelectedPicksPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\SelectedPicksPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\UpdateAppearancePlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\UpdateAppearancePlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\ValidationApiPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\ValidationApiPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningBs4Plugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningBs4Plugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningBs5Plugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningBs5Plugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningCssPatchPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningCssPatchPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningPlugin.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningPlugin.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\index.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\index.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\test.js",
+      "PackagePath": "staticwebassets\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\test.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\dashboard.css",
+      "PackagePath": "staticwebassets\\lib\\css\\dashboard.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\dashboard.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\css\\dashboard.rtl.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\jquery-confirm.min.css",
+      "PackagePath": "staticwebassets\\lib\\css\\jquery-confirm.min.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\lib\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\sidebars.css",
+      "PackagePath": "staticwebassets\\lib\\css\\sidebars.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\style.css",
+      "PackagePath": "staticwebassets\\lib\\css\\style.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\themes-jquery-ui.css",
+      "PackagePath": "staticwebassets\\lib\\css\\themes-jquery-ui.css"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\img\\My project-1.png",
+      "PackagePath": "staticwebassets\\lib\\img\\My project-1.png"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\38595e06c7.js",
+      "PackagePath": "staticwebassets\\lib\\js\\38595e06c7.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\jquery-3.6.0.js",
+      "PackagePath": "staticwebassets\\lib\\js\\jquery-3.6.0.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\jquery-3.7.0.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\jquery-3.7.0.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\jquery-confirm.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\jquery-confirm.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\lib\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\moment.js",
+      "PackagePath": "staticwebassets\\lib\\js\\moment.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\lib\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\validaciones.js",
+      "PackagePath": "staticwebassets\\lib\\js\\validaciones.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.construtech.props",
+      "PackagePath": "build\\construtech.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.construtech.props",
+      "PackagePath": "buildMultiTargeting\\construtech.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.construtech.props",
+      "PackagePath": "buildTransitive\\construtech.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.construtech.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
