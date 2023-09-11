@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\C#\\construtech\\construtech\\construtech.csproj": {}
+    "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\construtech.csproj": {}
   },
   "projects": {
-    "D:\\projects\\C#\\construtech\\construtech\\construtech.csproj": {
+    "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\construtech.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\C#\\construtech\\construtech\\construtech.csproj",
+        "projectUniqueName": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\construtech.csproj",
         "projectName": "construtech",
-        "projectPath": "D:\\projects\\C#\\construtech\\construtech\\construtech.csproj",
+        "projectPath": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\construtech.csproj",
         "packagesPath": "C:\\Users\\KEVIN\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\C#\\construtech\\construtech\\obj\\",
+        "outputPath": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEVIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

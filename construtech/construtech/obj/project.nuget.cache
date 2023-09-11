@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/+Bq92POwB4t9A29TFqXzjJ3c5wQbZxjTju4oHOfSWTWtEjlqshCgYu/uSWFafwT1wkK52huQjLtdNP1Q1/P3Q==",
+  "dgSpecHash": "wRI75HWOaFNJQPwoTVDCLGpqYpc6bIbzwZhpiR/nyj5H3KNOCitUaDZMoQVGDzh62FjJYqxMyKvQ/Bn+FZ/7Rw==",
   "success": true,
-  "projectFilePath": "D:\\projects\\C#\\construtech\\construtech\\construtech.csproj",
+  "projectFilePath": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\construtech.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KEVIN\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\KEVIN\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -4,51 +4,62 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
-
-<h4>Usuario</h4>
-<hr />
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-12">
         <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="Nombre" class="control-label"></label>
-                <input asp-for="Nombre" class="form-control" />
-                <span asp-validation-for="Nombre" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Apellido" class="control-label"></label>
-                <input asp-for="Apellido" class="form-control" />
-                <span asp-validation-for="Apellido" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Cedula" class="control-label"></label>
-                <input asp-for="Cedula" class="form-control" />
-                <span asp-validation-for="Cedula" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Clave" class="control-label"></label>
-                <input asp-for="Clave" class="form-control" />
-                <span asp-validation-for="Clave" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="IdRol" class="control-label"></label>
-                <select asp-for="IdRol" class ="form-control" asp-items="ViewBag.IdRol"></select>
-            </div>
-            <div class="form-group">
-                <label asp-for="IdEmpl" class="control-label"></label>
-                <select asp-for="IdEmpl" class ="form-control" asp-items="ViewBag.IdEmpl"></select>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+            <div class="card text-center w-100">
+                <div class="card-header bg-primary text-white">
+                    <h2>Agregar Usuario</h2>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group col-6 mt-3">
+                            <label asp-for="Nombre" class="control-label"></label>
+                            <input asp-for="Nombre" class="form-control" />
+                            <span asp-validation-for="Nombre" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-6 mt-3">
+                            <label asp-for="Apellido" class="control-label"></label>
+                            <input asp-for="Apellido" class="form-control" />
+                            <span asp-validation-for="Apellido" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-6 mt-3">
+                            <label asp-for="Cedula" class="control-label"></label>
+                            <input asp-for="Cedula" class="form-control" />
+                            <span asp-validation-for="Cedula" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-6 mt-3">
+                            <label asp-for="Clave" class="control-label"></label>
+                            <input asp-for="Clave" class="form-control" />
+                            <span asp-validation-for="Clave" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-6 mt-3">
+                            <label asp-for="IdRol" class="control-label"></label>
+                            <select asp-for="IdRol" class="form-control" asp-items="ViewBag.IdRol"></select>
+                        </div>
+                        <div class="form-group col-6 mt-3">
+                            <label asp-for="IdEmpl" class="control-label"></label>
+                            <select asp-for="IdEmpl" class="form-control" asp-items="ViewBag.IdEmpl"></select>
+                            <span asp-validation-for="IdEmpl" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <button type="submit" value="Create" class="btn btn-primary w-50">
+                                <h4>Agregar</h4>
+                            </button>
+                        </div>
+                        <div class="col-md-6">
+                            <a type="button" asp-action="Index" class="btn btn-danger w-50"><h4>Cancelar</h4></a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </form>
     </div>
-</div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
 </div>
 
 @section Scripts {

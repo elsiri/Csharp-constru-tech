@@ -24,15 +24,12 @@
                 @Html.DisplayNameFor(model => model.Cedula)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Clave)
+                 Empleado
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.IdEmplNavigation)
+                Rol
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.IdRolNavigation)
-            </th>
-            <th></th>
+            <th>Accion</th>
         </tr>
     </thead>
     <tbody>
@@ -48,13 +45,10 @@
                 @Html.DisplayFor(modelItem => item.Cedula)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Clave)
+                @Html.DisplayFor(modelItem => item.IdEmplNavigation.Nombre)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.IdEmplNavigation.Id)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.IdRolNavigation.Id)
+                @Html.DisplayFor(modelItem => item.IdRolNavigation.Nombre)
             </td>
             <td>
                     <a class="btn bg-secondary text-white" asp-action="Edit" asp-route-id="@item.Id">Editar <i class="fa-solid fa-pen-to-square"></i></a>

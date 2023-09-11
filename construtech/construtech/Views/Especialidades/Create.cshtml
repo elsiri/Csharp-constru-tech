@@ -3,36 +3,47 @@
 @{
     ViewData["Title"] = "Create";
 }
-
-<h1>Create</h1>
-
-<h4>Especialidade</h4>
-<hr />
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-12">
         <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="Especialidad" class="control-label"></label>
-                <input asp-for="Especialidad" class="form-control" />
-                <span asp-validation-for="Especialidad" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="Estado" class="control-label"></label>
-                <input asp-for="Estado" class="form-control" />
-                <span asp-validation-for="Estado" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+            <div class="card text-center w-100">
+                <div class="card-header bg-primary text-white">
+                    <h2>Agregar Especialidad</h2>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group col-md-6 mt-6">
+                            <label asp-for="Especialidad" class="control-label"></label>
+                            <input asp-for="Especialidad" class="form-control" />
+                            <span asp-validation-for="Especialidad" class="text-danger"></span>
+                        </div>
+                        <div class="form-group col-md-6 mt-6">
+                            <label asp-for="Estado" class="form-label">Estado <span class="text-danger">*</span></label>
+                            <select asp-for="Estado" id="estado" class="form-select form-select-sm" aria-label=".form-select-sm example">
+                                <option value="activo">Activo</option>
+                                <option value="inactivo">Inactivo</option>
+                            </select>
+                            <span asp-validation-for="Estado" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <button type="submit" value="Create" class="btn btn-primary w-50">
+                                <h4>Agregar</h4>
+                            </button>
+                        </div>
+                        <div class="col-md-6">
+                            <a type="button" asp-action="Index" class="btn btn-danger w-50"><h4>Cancelar</h4></a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </form>
     </div>
 </div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }

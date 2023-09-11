@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jlb5qD7QiPFgq8BYXswKgTprfuR3hwqn77BzAGVK5ZA=",
+  "Hash": "wS7tvAS3mXm0RgxANXHucmbdzVibSgG2uC+hMUm0jTA=",
   "Source": "construtech",
   "BasePath": "_content/construtech",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "construtech\\wwwroot",
       "Source": "construtech",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\obj\\Debug\\net6.0\\scopedcss\\bundle\\construtech.styles.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\obj\\Debug\\net6.0\\scopedcss\\bundle\\construtech.styles.css",
       "SourceId": "construtech",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/construtech",
       "RelativePath": "construtech.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\projects\\C#\\construtech\\construtech\\obj\\Debug\\net6.0\\scopedcss\\bundle\\construtech.styles.css"
+      "OriginalItemSpec": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\obj\\Debug\\net6.0\\scopedcss\\bundle\\construtech.styles.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\construtech.bundle.scp.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\construtech.bundle.scp.css",
       "SourceId": "construtech",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/construtech",
       "RelativePath": "construtech.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\projects\\C#\\construtech\\construtech\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\construtech.bundle.scp.css"
+      "OriginalItemSpec": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\construtech.bundle.scp.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\css\\site.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\css\\site.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\favicon.ico",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\favicon.ico",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\js\\site.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\js\\site.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.eslintignore",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.eslintignore",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/.eslintignore",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.eslintignore"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.eslintrc.json",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.eslintrc.json",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/.eslintrc.json",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.eslintrc.json"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.gitignore",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.gitignore",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/.gitignore",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.gitignore"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.stylelintignore",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.stylelintignore",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/.stylelintignore",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.stylelintignore"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.stylelintrc",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.stylelintrc",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/.stylelintrc",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\.stylelintrc"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.bundle.esm.config.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.bundle.esm.config.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/babel.bundle.esm.config.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.bundle.esm.config.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.bundle.umd.config.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.bundle.umd.config.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/babel.bundle.umd.config.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.bundle.umd.config.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.mjs.config.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.mjs.config.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/babel.mjs.config.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.mjs.config.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.mjs.ecma5.config.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.mjs.ecma5.config.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/babel.mjs.ecma5.config.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\babel.mjs.ecma5.config.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\BsMultiSelect.code-workspace",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\BsMultiSelect.code-workspace",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/BsMultiSelect.code-workspace",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\BsMultiSelect.code-workspace"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\banner.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\banner.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/build/banner.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\banner.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\postcss.config.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\postcss.config.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/build/postcss.config.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\postcss.config.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\rollup.config.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\rollup.config.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/build/rollup.config.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\rollup.config.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\rollup_async.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\rollup_async.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/build/rollup_async.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\build\\rollup_async.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\CHANGELOG.md",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\CHANGELOG.md",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/CHANGELOG.md",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\CHANGELOG.md"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\debugJs.html",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\debugJs.html",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/debugJs.html",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\debugJs.html"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\debugJsSimple.html",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\debugJsSimple.html",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/debugJsSimple.html",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\debugJsSimple.html"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\debugJsSimplePicks.html",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\debugJsSimplePicks.html",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/debugJsSimplePicks.html",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\debugJsSimplePicks.html"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/css/BsMultiSelect.bs4.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/css/BsMultiSelect.bs4.css.map",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.min.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.min.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/css/BsMultiSelect.bs4.min.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.min.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.min.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.min.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/css/BsMultiSelect.bs4.min.css.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.bs4.min.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/css/BsMultiSelect.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/css/BsMultiSelect.css.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.min.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.min.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/css/BsMultiSelect.min.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.min.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.min.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.min.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/css/BsMultiSelect.min.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\css\\BsMultiSelect.min.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.bs4.esm.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.js.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.js.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.bs4.esm.js.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.js.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.min.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.min.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.bs4.esm.min.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.min.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.min.js.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.min.js.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.bs4.esm.min.js.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.esm.min.js.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.bs4.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.js.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.js.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.bs4.js.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.js.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.min.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.min.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.bs4.min.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.min.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.min.js.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.min.js.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.bs4.min.js.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.bs4.min.js.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.ecma5.mjs",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.ecma5.mjs",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.ecma5.mjs",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.ecma5.mjs"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.ecma5.mjs.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.ecma5.mjs.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.ecma5.mjs.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.ecma5.mjs.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.esm.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.js.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.js.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.esm.js.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.js.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.min.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.min.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.esm.min.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.min.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.min.js.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.min.js.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.esm.min.js.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.esm.min.js.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.js",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.js.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.js.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.js.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.js.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.min.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.min.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.min.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.min.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.min.js.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.min.js.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.min.js.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.min.js.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.mjs",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.mjs",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.mjs",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.mjs"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.mjs.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.mjs.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/dist/js/BsMultiSelect.mjs.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\dist\\js\\BsMultiSelect.mjs.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\index.d.ts",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\index.d.ts",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/index.d.ts",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\index.d.ts"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\KB.md",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\KB.md",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/KB.md",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\KB.md"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\LICENSE",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\LICENSE",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/LICENSE",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\LICENSE"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\npm-debug.log",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\npm-debug.log",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/npm-debug.log",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\npm-debug.log"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\package.json",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\package.json",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/package.json",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\package.json"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\package-lock.json",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\package-lock.json",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/package-lock.json",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\package-lock.json"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\README.md",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\README.md",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/README.md",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\README.md"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\scss\\BsMultiSelect.bs4.scss",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\scss\\BsMultiSelect.bs4.scss",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/scss/BsMultiSelect.bs4.scss",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\scss\\BsMultiSelect.bs4.scss"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\scss\\BsMultiSelect.scss",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\scss\\BsMultiSelect.scss",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/scss/BsMultiSelect.scss",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\scss\\BsMultiSelect.scss"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\AddToJQueryPrototype.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\AddToJQueryPrototype.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/AddToJQueryPrototype.js",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\AddToJQueryPrototype.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\AfterInputAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\AfterInputAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/AfterInputAspect.js",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\AfterInputAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\AppendAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\AppendAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/AppendAspect.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\AppendAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.bs4.esm.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.bs4.esm.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/BsMultiSelect.bs4.esm.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.bs4.esm.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.bs4.jquery.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.bs4.jquery.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/BsMultiSelect.bs4.jquery.js",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.bs4.jquery.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.esm.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.esm.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/BsMultiSelect.esm.js",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.esm.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.jquery.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.jquery.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/BsMultiSelect.jquery.js",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.jquery.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/BsMultiSelect.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.web.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.web.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/BsMultiSelect.web.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect.web.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect2.jquery.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect2.jquery.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/BsMultiSelect2.jquery.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect2.jquery.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect2.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect2.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/BsMultiSelect2.js",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelect2.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelectDepricatedParameters.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelectDepricatedParameters.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/BsMultiSelectDepricatedParameters.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelectDepricatedParameters.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelectElement.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelectElement.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/BsMultiSelectElement.js",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\BsMultiSelectElement.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoiceDomFactory.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoiceDomFactory.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/ChoiceDomFactory.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoiceDomFactory.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoicesDomFactory.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoicesDomFactory.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/ChoicesDomFactory.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoicesDomFactory.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoicesEnumerableAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoicesEnumerableAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/ChoicesEnumerableAspect.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoicesEnumerableAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoicesVisibilityAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoicesVisibilityAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/ChoicesVisibilityAspect.js",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ChoicesVisibilityAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CountableChoicesListInsertAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CountableChoicesListInsertAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/CountableChoicesListInsertAspect.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CountableChoicesListInsertAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CreateElementAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CreateElementAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/CreateElementAspect.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CreateElementAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CreateForJQuery.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CreateForJQuery.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/CreateForJQuery.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CreateForJQuery.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CreateWrapAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CreateWrapAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/CreateWrapAspect.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\CreateWrapAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\DomFactories.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\DomFactories.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/DomFactories.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\DomFactories.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\FilterDomFactory.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\FilterDomFactory.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/FilterDomFactory.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\FilterDomFactory.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\FilterManagerAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\FilterManagerAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/FilterManagerAspect.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\FilterManagerAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\index.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\index.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/index.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\index.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\InitialDomFactory.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\InitialDomFactory.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/InitialDomFactory.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\InitialDomFactory.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\InputAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\InputAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/InputAspect.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\InputAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\LayoutFactory.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\LayoutFactory.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/LayoutFactory.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\LayoutFactory.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\LoadAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\LoadAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/LoadAspect.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\LoadAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ModuleFactory.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ModuleFactory.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/ModuleFactory.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ModuleFactory.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\MultiSelectBuilder.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\MultiSelectBuilder.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/MultiSelectBuilder.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\MultiSelectBuilder.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\MultiSelectInlineLayoutAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\MultiSelectInlineLayoutAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/MultiSelectInlineLayoutAspect.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\MultiSelectInlineLayoutAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\NavigateAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\NavigateAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/NavigateAspect.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\NavigateAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\OnChangeAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\OnChangeAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/OnChangeAspect.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\OnChangeAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\OptionsAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\OptionsAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/OptionsAspect.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\OptionsAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\OptionsLoopAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\OptionsLoopAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/OptionsLoopAspect.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\OptionsLoopAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PickDomFactory.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PickDomFactory.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/PickDomFactory.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PickDomFactory.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PicksDomFactory.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PicksDomFactory.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/PicksDomFactory.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PicksDomFactory.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PicksElementAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PicksElementAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/PicksElementAspect.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PicksElementAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PluginManager.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PluginManager.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/PluginManager.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PluginManager.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs4CssPatchPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs4CssPatchPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/BsAppearanceBs4CssPatchPlugin.js",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs4CssPatchPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs4Plugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs4Plugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/BsAppearanceBs4Plugin.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs4Plugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs5CssPatchPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs5CssPatchPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/BsAppearanceBs5CssPatchPlugin.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs5CssPatchPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs5Plugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs5Plugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/BsAppearanceBs5Plugin.js",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearanceBs5Plugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearancePlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearancePlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/BsAppearancePlugin.js",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\BsAppearancePlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\ChoicesDynamicStylingPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\ChoicesDynamicStylingPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/ChoicesDynamicStylingPlugin.js",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\ChoicesDynamicStylingPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CreatePopperPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CreatePopperPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/CreatePopperPlugin.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CreatePopperPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CssPatchBs4Plugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CssPatchBs4Plugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/CssPatchBs4Plugin.js",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CssPatchBs4Plugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CssPatchBs5Plugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CssPatchBs5Plugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/CssPatchBs5Plugin.js",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CssPatchBs5Plugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CssPatchPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CssPatchPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/CssPatchPlugin.js",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CssPatchPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CustomChoiceStylingsPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CustomChoiceStylingsPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/CustomChoiceStylingsPlugin.js",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CustomChoiceStylingsPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CustomPickStylingsPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CustomPickStylingsPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/CustomPickStylingsPlugin.js",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\CustomPickStylingsPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\DisableComponentPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\DisableComponentPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/DisableComponentPlugin.js",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\DisableComponentPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\DisabledOptionPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\DisabledOptionPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/DisabledOptionPlugin.js",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\DisabledOptionPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FloatingLabelCssPatchBs5Plugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FloatingLabelCssPatchBs5Plugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/FloatingLabelCssPatchBs5Plugin.js",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FloatingLabelCssPatchBs5Plugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FloatingLabelPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FloatingLabelPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/FloatingLabelPlugin.js",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FloatingLabelPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FormResetPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FormResetPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/FormResetPlugin.js",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FormResetPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FormRestoreOnBackwardPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FormRestoreOnBackwardPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/FormRestoreOnBackwardPlugin.js",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\FormRestoreOnBackwardPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\HiddenOptionAltPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\HiddenOptionAltPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/HiddenOptionAltPlugin.js",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\HiddenOptionAltPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\HiddenOptionPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\HiddenOptionPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/HiddenOptionPlugin.js",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\HiddenOptionPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\HighlightPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\HighlightPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/HighlightPlugin.js",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\HighlightPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\index.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\index.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/index.js",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\index.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\JQueryMethodsPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\JQueryMethodsPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/JQueryMethodsPlugin.js",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\JQueryMethodsPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\LabelForAttributePlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\LabelForAttributePlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/LabelForAttributePlugin.js",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\LabelForAttributePlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\OptionsApiPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\OptionsApiPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/OptionsApiPlugin.js",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\OptionsApiPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PickButtonPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PickButtonPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/PickButtonPlugin.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PickButtonPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PicksApiPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PicksApiPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/PicksApiPlugin.js",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PicksApiPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PicksPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PicksPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/PicksPlugin.js",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PicksPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PlaceholderCssPatchPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PlaceholderCssPatchPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/PlaceholderCssPatchPlugin.js",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PlaceholderCssPatchPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PlaceholderPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PlaceholderPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/PlaceholderPlugin.js",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\PlaceholderPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\RtlPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\RtlPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/RtlPlugin.js",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\RtlPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\SelectedOptionPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\SelectedOptionPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/SelectedOptionPlugin.js",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\SelectedOptionPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\SelectedPicksPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\SelectedPicksPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/SelectedPicksPlugin.js",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\SelectedPicksPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\SelectElementPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\SelectElementPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/SelectElementPlugin.js",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\SelectElementPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\UpdateAppearancePlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\UpdateAppearancePlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/UpdateAppearancePlugin.js",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\UpdateAppearancePlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\ValidationApiPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\ValidationApiPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/ValidationApiPlugin.js",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\ValidationApiPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningBs4Plugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningBs4Plugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/WarningBs4Plugin.js",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningBs4Plugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningBs5Plugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningBs5Plugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/WarningBs5Plugin.js",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningBs5Plugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningCssPatchPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningCssPatchPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/WarningCssPatchPlugin.js",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningCssPatchPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningPlugin.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningPlugin.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/plugins/WarningPlugin.js",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\plugins\\WarningPlugin.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PluginSet.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PluginSet.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/PluginSet.js",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\PluginSet.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ProduceChoiceAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ProduceChoiceAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/ProduceChoiceAspect.js",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ProduceChoiceAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ProducePickAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ProducePickAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/ProducePickAspect.js",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ProducePickAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ResetFilterListAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ResetFilterListAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/ResetFilterListAspect.js",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ResetFilterListAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ResetLayoutAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ResetLayoutAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/ResetLayoutAspect.js",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ResetLayoutAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ShowErrorAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ShowErrorAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/ShowErrorAspect.js",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ShowErrorAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\SpecialPicksEventsAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\SpecialPicksEventsAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/SpecialPicksEventsAspect.js",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\SpecialPicksEventsAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\StaticDomFactory.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\StaticDomFactory.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/StaticDomFactory.js",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\StaticDomFactory.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\StaticManagerAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\StaticManagerAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/StaticManagerAspect.js",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\StaticManagerAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolsDom.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolsDom.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/ToolsDom.js",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolsDom.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolSet.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolSet.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/ToolSet.js",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolSet.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolsJs.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolsJs.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/ToolsJs.js",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolsJs.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolsStyling.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolsStyling.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/ToolsStyling.js",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\ToolsStyling.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\UpdateDataAspect.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\UpdateDataAspect.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/UpdateDataAspect.js",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\UpdateDataAspect.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\Wraps.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\Wraps.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/src/Wraps.js",
       "AssetKind": "All",
@@ -3417,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\src\\Wraps.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\test.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\test.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/test.js",
       "AssetKind": "All",
@@ -3434,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\test.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\TODO.txt",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\TODO.txt",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/Bootstrap-4-Multi-Select-BsMultiSelect/TODO.txt",
       "AssetKind": "All",
@@ -3451,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\Bootstrap-4-Multi-Select-BsMultiSelect\\TODO.txt"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\all.min.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\css\\all.min.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/css/all.min.css",
       "AssetKind": "All",
@@ -3468,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\css\\all.min.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\bootstrap.min.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\css\\bootstrap.min.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -3485,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\css\\bootstrap.min.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -3502,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\css\\bootstrap.rtl.min.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -3519,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -3536,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\dashboard.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\css\\dashboard.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/css/dashboard.css",
       "AssetKind": "All",
@@ -3553,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\css\\dashboard.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\dashboard.rtl.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\css\\dashboard.rtl.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/css/dashboard.rtl.css",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\css\\dashboard.rtl.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\jquery-confirm.min.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\css\\jquery-confirm.min.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/css/jquery-confirm.min.css",
       "AssetKind": "All",
@@ -3587,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\css\\jquery-confirm.min.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\jquery-ui.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\css\\jquery-ui.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/css/jquery-ui.css",
       "AssetKind": "All",
@@ -3604,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\css\\jquery-ui.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\sidebars.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\css\\sidebars.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/css/sidebars.css",
       "AssetKind": "All",
@@ -3621,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\css\\sidebars.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\style.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\css\\style.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/css/style.css",
       "AssetKind": "All",
@@ -3638,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\css\\style.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\css\\themes-jquery-ui.css",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\css\\themes-jquery-ui.css",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/css/themes-jquery-ui.css",
       "AssetKind": "All",
@@ -3655,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\css\\themes-jquery-ui.css"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\img\\My project-1.png",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\img\\My project-1.png",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/img/My project-1.png",
       "AssetKind": "All",
@@ -3672,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\img\\My project-1.png"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3689,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3706,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3723,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3740,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3757,10 +3757,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3774,10 +3774,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3791,10 +3791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3808,10 +3808,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3825,10 +3825,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3842,10 +3842,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3859,10 +3859,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3876,10 +3876,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\38595e06c7.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\js\\38595e06c7.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/js/38595e06c7.js",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\js\\38595e06c7.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\bootstrap.min.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\js\\bootstrap.min.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3910,10 +3910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\jquery-3.6.0.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\js\\jquery-3.6.0.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/js/jquery-3.6.0.js",
       "AssetKind": "All",
@@ -3927,10 +3927,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\js\\jquery-3.6.0.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\jquery-3.7.0.min.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\js\\jquery-3.7.0.min.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/js/jquery-3.7.0.min.js",
       "AssetKind": "All",
@@ -3944,10 +3944,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\js\\jquery-3.7.0.min.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\jquery-confirm.min.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\js\\jquery-confirm.min.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/js/jquery-confirm.min.js",
       "AssetKind": "All",
@@ -3961,10 +3961,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\js\\jquery-confirm.min.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\jquery-ui.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\js\\jquery-ui.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/js/jquery-ui.js",
       "AssetKind": "All",
@@ -3978,10 +3978,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\js\\jquery-ui.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\moment.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\js\\moment.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/js/moment.js",
       "AssetKind": "All",
@@ -3995,10 +3995,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\js\\moment.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\popper.min.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\js\\popper.min.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/js/popper.min.js",
       "AssetKind": "All",
@@ -4012,10 +4012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\js\\popper.min.js"
     },
     {
-      "Identity": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\lib\\js\\validaciones.js",
+      "Identity": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\lib\\js\\validaciones.js",
       "SourceId": "construtech",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\projects\\C#\\construtech\\construtech\\wwwroot\\",
+      "ContentRoot": "C:\\xampp\\htdocs\\Csharp-constru-tech\\construtech\\construtech\\wwwroot\\",
       "BasePath": "_content/construtech",
       "RelativePath": "lib/js/validaciones.js",
       "AssetKind": "All",
