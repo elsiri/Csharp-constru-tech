@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
@@ -12,7 +13,9 @@ public partial class Usuario
     [Required(ErrorMessage = "El apellido es requerido")]
     public string? Apellido { get; set; }
     [Required(ErrorMessage = "La cedula es requerida")]
-    public int? Cedula { get; set; }
+    [Remote("VerificarCedulaUnica", "Usuarios", ErrorMessage = "La cedula ingresada ya existe")]
+
+    public string? Cedula { get; set; }
     [Required(ErrorMessage = "La clave es requerida")]
     public string? Clave { get; set; }
     [Required(ErrorMessage = "El Rol es requerido")]

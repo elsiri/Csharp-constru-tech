@@ -19,6 +19,18 @@ namespace construtech.Controllers
         }
 
         // GET: Empleadoes
+        [AcceptVerbs("Get", "Post")]
+        public IActionResult VerificarCorreoUnico(string correoElectronico)
+        {
+            var existe = _context.Clientes.Any(x => x.Email == correoElectronico);
+            return Json(!existe);
+        }
+        [AcceptVerbs("Get", "Post")]
+        public IActionResult VerificarCedulaUnica(string cedula)
+        {
+            var existe = _context.Clientes.Any(x => x.Cedula == cedula);
+            return Json(!existe);
+        }
         public async Task<IActionResult> Index()
         {
               return _context.Empleados != null ? 

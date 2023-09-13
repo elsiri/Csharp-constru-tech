@@ -19,6 +19,11 @@ namespace construtech.Controllers
         }
 
         // GET: Usuarios
+        public IActionResult VerificarCedulaUnica(string cedula)
+        {
+            var existe = _context.Usuarios.Any(x => x.Cedula == cedula);
+            return Json(!existe);
+        }
         public async Task<IActionResult> Index()
         {
             var construTechContext = _context.Usuarios.Include(u => u.IdEmplNavigation).Include(u => u.IdRolNavigation);

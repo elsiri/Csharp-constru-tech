@@ -27,10 +27,10 @@
                 @Html.DisplayNameFor(model => model.Cantidad)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.IdCatNavigation)
+                 Categoria
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.IdProveedorNavigation)
+                 Proveedor
             </th>
             <th></th>
         </tr>
@@ -51,10 +51,10 @@
                 @Html.DisplayFor(modelItem => item.Cantidad)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.IdCatNavigation.Id)
+                @Html.DisplayFor(modelItem => item.IdCatNavigation.Nombre)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.IdProveedorNavigation.Id)
+                @Html.DisplayFor(modelItem => item.IdProveedorNavigation.Nombres)
             </td>
             <td>
                     <a class="btn bg-secondary text-white" asp-action="Edit" asp-route-id="@item.Id">Editar <i class="fa-solid fa-pen-to-square"></i></a>
