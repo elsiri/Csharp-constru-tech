@@ -6,9 +6,11 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using construtech.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace construtech.Controllers
 {
+    [Authorize]
     public class MaterialesController : Controller
     {
         private readonly ConstruTechContext _context;

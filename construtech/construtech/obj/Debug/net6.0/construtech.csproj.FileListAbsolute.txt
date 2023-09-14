@@ -596,3 +596,6 @@ C:\xampp\htdocs\Csharp-constru-tech\construtech\construtech\obj\Debug\net6.0\ref
 C:\xampp\htdocs\Csharp-constru-tech\construtech\construtech\obj\Debug\net6.0\construtech.pdb
 C:\xampp\htdocs\Csharp-constru-tech\construtech\construtech\obj\Debug\net6.0\construtech.genruntimeconfig.cache
 C:\xampp\htdocs\Csharp-constru-tech\construtech\construtech\obj\Debug\net6.0\ref\construtech.dll
+C:\xampp\htdocs\Csharp-constru-tech\construtech\construtech\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\xampp\htdocs\Csharp-constru-tech\construtech\construtech\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\xampp\htdocs\Csharp-constru-tech\construtech\construtech\obj\Debug\net6.0\construtech.MvcApplicationPartsAssemblyInfo.cs

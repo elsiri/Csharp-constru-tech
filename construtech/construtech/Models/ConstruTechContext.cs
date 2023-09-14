@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace construtech.Models;
 
-public partial class ConstruTechContext : DbContext
+public partial class ConstruTechContext : IdentityDbContext
 {
     public ConstruTechContext()
     {
@@ -47,6 +48,7 @@ public partial class ConstruTechContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        base.OnModelCreating(modelBuilder);
         modelBuilder.Entity<Categoria>(entity =>
         {
             entity.HasKey(e => e.Id).HasName("PK__categori__3214EC0713B5C36E");
@@ -339,6 +341,7 @@ public partial class ConstruTechContext : DbContext
         });
 
         OnModelCreatingPartial(modelBuilder);
+
     }
 
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
