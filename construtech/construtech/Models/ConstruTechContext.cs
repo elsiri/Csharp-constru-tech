@@ -102,7 +102,7 @@ public partial class ConstruTechContext : IdentityDbContext
             entity.HasKey(e => e.Id).HasName("PK__empleado__3214EC0763E88882");
 
             entity.ToTable("empleados");
-
+            entity.HasIndex(e => e.Email).IsUnique();
             entity.Property(e => e.Cedula)
                 .HasMaxLength(50)
                 .IsUnicode(false);

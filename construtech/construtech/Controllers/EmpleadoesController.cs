@@ -22,15 +22,15 @@ namespace construtech.Controllers
 
         // GET: Empleadoes
         [AcceptVerbs("Get", "Post")]
-        public IActionResult VerificarCorreoUnico(string correoElectronico)
+        public IActionResult VerificarCorreoUnico(string Email)
         {
-            var existe = _context.Clientes.Any(x => x.Email == correoElectronico);
-            return Json(!existe);
+            bool esUnico = !_context.Empleados.Any(e => e.Email == Email);
+            return Json(esUnico);
         }
         [AcceptVerbs("Get", "Post")]
         public IActionResult VerificarCedulaUnica(string cedula)
         {
-            var existe = _context.Clientes.Any(x => x.Cedula == cedula);
+            var existe = _context.Empleados.Any(x => x.Cedula == cedula);
             return Json(!existe);
         }
         public async Task<IActionResult> Index()

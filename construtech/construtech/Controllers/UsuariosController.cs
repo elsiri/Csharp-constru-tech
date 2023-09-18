@@ -55,8 +55,8 @@ namespace construtech.Controllers
         // GET: Usuarios/Create
         public IActionResult Create()
         {
-            ViewData["IdEmpl"] = new SelectList(_context.Empleados, "Id", "Id");
-            ViewData["IdRol"] = new SelectList(_context.Roles, "Id", "Id");
+            ViewData["IdEmpl"] = new SelectList(_context.Empleados, "Id", "Nombre");
+            ViewData["IdRol"] = new SelectList(_context.Roles, "Id", "Nombre");
             return View();
         }
 

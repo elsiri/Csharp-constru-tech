@@ -22,10 +22,10 @@ namespace construtech.Controllers
 
         // GET: Clientes
         [AcceptVerbs("Get", "Post")]
-        public IActionResult VerificarCorreoUnico(string correoElectronico)
+        public IActionResult VerificarCorreoUnico(string Email)
         {
-            var existe = _context.Clientes.Any(x => x.Email == correoElectronico);
-            return Json(!existe);
+            bool esUnico = !_context.Clientes.Any(e => e.Email == Email);
+            return Json(esUnico);
         }
         [AcceptVerbs("Get", "Post")]
         public IActionResult VerificarCedulaUnica(string cedula)
