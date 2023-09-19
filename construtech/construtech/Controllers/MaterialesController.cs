@@ -50,8 +50,13 @@ namespace construtech.Controllers
         // GET: Materiales/Create
         public IActionResult Create()
         {
-            ViewData["IdCat"] = new SelectList(_context.Categorias, "Id", "Nombre");
-            ViewData["IdProveedor"] = new SelectList(_context.Proveedores, "Id", "Nombres");
+            var categoriasActivas = _context.Categorias.Where(p => p.Estado == "Activo").ToList();
+
+            ViewData["IdCat"] = new SelectList(categoriasActivas, "Id", "Nombre");
+
+            var proveedoresActivos = _context.Proveedores.Where(p => p.Estado == "Activo").ToList();
+
+            ViewData["IdProveedor"] = new SelectList(proveedoresActivos, "Id", "Nombres");
             return View();
         }
 
